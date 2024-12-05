@@ -1,0 +1,4 @@
+API Key : APIew9aRkyjMwkg
+Secret Key : 7O5Guflr9se47Z1Zk1MsjoIwwtNuIrjAs0dx3nN4fmmB
+
+WebSocket URL : wss://phenix-vh8jhnzm.livekit.cloud
